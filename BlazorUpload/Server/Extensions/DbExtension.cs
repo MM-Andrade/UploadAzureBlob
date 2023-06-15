@@ -14,8 +14,6 @@ namespace BlazorUpload.Server.Extensions
             {
                 options.UseSqlite(connectionStringDb);
             });
-
-
         }
     }
 }
