@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUpload", "ConsoleUpload\ConsoleUpload.csproj", "{725D412C-59A2-45C3-ADC4-FEABEE9FE04E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorUpload.Server", "BlazorUpload\Server\BlazorUpload.Server.csproj", "{D06D0A80-9A54-4E3F-BF9E-C7B815145A5B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorUpload.Client", "BlazorUpload\Client\BlazorUpload.Client.csproj", "{7CBBD70D-1394-4188-85AA-507026B9CBF0}"
@@ -17,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{725D412C-59A2-45C3-ADC4-FEABEE9FE04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{725D412C-59A2-45C3-ADC4-FEABEE9FE04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{725D412C-59A2-45C3-ADC4-FEABEE9FE04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{725D412C-59A2-45C3-ADC4-FEABEE9FE04E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D06D0A80-9A54-4E3F-BF9E-C7B815145A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D06D0A80-9A54-4E3F-BF9E-C7B815145A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D06D0A80-9A54-4E3F-BF9E-C7B815145A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
