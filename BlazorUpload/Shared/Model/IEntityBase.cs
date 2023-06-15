@@ -1,6 +1,6 @@
 ﻿namespace BlazorUpload.Shared.Model
 {
-    internal interface IEntityBase
+    public interface IEntityBase
     {
         public Guid Id { get; set; }
     }

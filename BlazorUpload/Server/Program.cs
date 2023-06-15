@@ -1,5 +1,4 @@
 using BlazorUpload.Server.Extensions;
-using Microsoft.AspNetCore.ResponseCompression;
 
 var builder = WebApplication.CreateBuilder(args);
 
